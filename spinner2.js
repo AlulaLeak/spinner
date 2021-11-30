@@ -7,3 +7,4 @@ for (const char of allTwirls) {
     process.stdout.write('\r' + char);
   }, start += 200);
 }
+//Need to know how to keep cursor in same position
